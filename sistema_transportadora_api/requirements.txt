@@ -1,0 +1,7 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow<4.0
+flask-swagger-ui

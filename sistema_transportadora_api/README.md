@@ -1,3 +1,12 @@
+Murilo Gomes Sardinha
+RA: 2401763
+João Manoel Lelis Oliveira
+RA:2401807
+Vinicius Janini
+RA:2401580
+
+
+
 # sistema_transportadora_api
 
 Sistema de gestão com entidades: Moradores, Apartamentos, Funcionários, Contas e Admin.
